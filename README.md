@@ -27,11 +27,8 @@ The dataset comprises over 548,551 unique products with metadata and co-purchase
 
 We analyzed the network to find central nodes and communities. While the initial aim was to replicate the findings of the cited paper, we explored further into the dynamics of the network, revealing insights into how products are interconnected. However, challenges arose in the granularity of community detection and the scalability of algorithms used.
 
-## Challenges
 
-- **Data Size:** Handling a large dataset with limited computational resources.
-- **Algorithm Efficiency:** Need for more efficient algorithms for community detection over large networks.
-- **Data Quality:** Dealing with inconsistencies and gaps in the dataset, particularly with discontinued products.
+
 
 ## Future Work
 
