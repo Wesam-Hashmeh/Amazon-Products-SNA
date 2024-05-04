@@ -26,21 +26,21 @@ The dataset comprises over 548,551 unique products with metadata and co-purchase
 ## Results
 
 We analyzed the network to find central nodes and communities. While the initial aim was to replicate the findings of the cited paper, we explored further into the dynamics of the network, revealing insights into how products are interconnected. However, challenges arose in the granularity of community detection and the scalability of algorithms used.
-
+#### Here we have the graph of all nodes and edges found within the sub sampled dataset
 <div>
   <img src="images/Graph.PNG" alt="graph">
 </div>
-
+#### After Running Newman's Algorithm, we were able to find primary communities within the data
 <div>
   <img src="images/CommsStats2.PNG" alt="stats">
 </div>
 
-
+#### Stats for each community calculated
 <div>
   <img src="images/CommsStats2.PNG" alt="stats">
 </div>
 
-
+#### Exploring Sub communities within primary communities. For more detail see the [python code](https://github.com/Wesam-Hashmeh/Amazon-Products-SNA/blob/main/AmazonSNA.ipynb)!
 <div>
   <img src="images/subcommex.PNG" alt="sub">
 </div>
