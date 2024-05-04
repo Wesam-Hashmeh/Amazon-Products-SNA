@@ -37,7 +37,7 @@ We analyzed the network to find central nodes and communities. While the initial
 
 #### Stats for each community calculated
 <div>
-  <img src="images/CommsStats2.PNG" alt="stats">
+  <img src="images/CommsStats.PNG" alt="stats">
 </div>
 
 #### Exploring Sub communities within primary communities. For more detail see the [python code](https://github.com/Wesam-Hashmeh/Amazon-Products-SNA/blob/main/AmazonSNA.ipynb)!
