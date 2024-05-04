@@ -28,21 +28,21 @@ The dataset comprises over 548,551 unique products with metadata and co-purchase
 We analyzed the network to find central nodes and communities. While the initial aim was to replicate the findings of the cited paper, we explored further into the dynamics of the network, revealing insights into how products are interconnected. However, challenges arose in the granularity of community detection and the scalability of algorithms used.
 
 <div>
-  <img src="images/Graph.png" alt="graph">
+  <img src="images/Graph.PNG" alt="graph">
 </div>
 
 <div>
-  <img src="images/CommsStats2.png" alt="stats">
-</div>
-
-
-<div>
-  <img src="images/CommsStats2.png" alt="stats">
+  <img src="images/CommsStats2.PNG" alt="stats">
 </div>
 
 
 <div>
-  <img src="images/subcommex.png" alt="sub">
+  <img src="images/CommsStats2.PNG" alt="stats">
+</div>
+
+
+<div>
+  <img src="images/subcommex.PNG" alt="sub">
 </div>
 
 
